@@ -1,0 +1,5 @@
+O código da questão 1 tem a funcionalidade de trazer informações local de rede como: Ip, Gateway e máscara.
+O código da questão 2 tem a funcionalidade de imprimir estatísticas de rede, sendo elas bytes enviados e recebidos e
+também pacotes.
+O código da questão 3 tem a funcionalidade de gerar informações de rede para um processo específico, esse processo
+é informado pelo usuário através do PID do mesmo.
